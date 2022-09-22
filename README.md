@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My name is Ben, and I am fairly new to GitHub! I'm currently working on understanding the different capabilities and functions of GitHub, and I'm grateful to be taking a Data Science class at BYU that helps walk me some of the different options available! 
 
-I love working with data and finding useful answers in row . I am also really interested in storytelling and data visualization, and love working with Tableau. I find meaning in helping other people, and am passionate about making the world a better place.
+I love working with data and finding useful answers in otherwise meaningless data. I am also really interested in storytelling and data visualization, and love working with Tableau. I find meaning in helping other people, and am passionate about making the world a better place.
